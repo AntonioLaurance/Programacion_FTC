@@ -13,6 +13,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 public class Autonomo extends LinearOpMode{
 
     // todo: write your code here
+    // Métodos de Java de FTC: http://ftctechnh.github.io/ftc_app/doc/javadoc/index.html
     
     // definir las variables de nuestros motores
     private ElapsedTime runtime = new ElapsedTime();
